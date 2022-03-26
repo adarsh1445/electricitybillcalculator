@@ -1,0 +1,12 @@
+D:\vb lab\electricity bill\electricity bill\obj\Debug\electricity bill.vbprojAssemblyReference.cache
+D:\vb lab\electricity bill\electricity bill\obj\Debug\electricity_bill.Form1.resources
+D:\vb lab\electricity bill\electricity bill\obj\Debug\electricity_bill.Resources.resources
+D:\vb lab\electricity bill\electricity bill\obj\Debug\electricity bill.vbproj.GenerateResource.cache
+D:\vb lab\electricity bill\electricity bill\obj\Debug\electricity bill.vbproj.CoreCompileInputs.cache
+D:\vb lab\electricity bill\electricity bill\bin\Debug\electricity bill.exe.config
+D:\vb lab\electricity bill\electricity bill\bin\Debug\electricity bill.exe
+D:\vb lab\electricity bill\electricity bill\bin\Debug\electricity bill.pdb
+D:\vb lab\electricity bill\electricity bill\bin\Debug\electricity bill.xml
+D:\vb lab\electricity bill\electricity bill\obj\Debug\electricity bill.exe
+D:\vb lab\electricity bill\electricity bill\obj\Debug\electricity bill.xml
+D:\vb lab\electricity bill\electricity bill\obj\Debug\electricity bill.pdb
